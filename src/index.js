@@ -22,7 +22,7 @@ function pingWebsites() {
     // For each repl, send an HTTP GET request
     db.get("repls").forEach((x) => {
       axios
-        .get(x)
+        .get("https://" + x)
         .then((response) => {
           // Log the status of the website (up or down)
           zello.info(`${x} is ${response.status === 200 ? "up" : "down"}.`);
