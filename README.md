@@ -11,7 +11,7 @@
 
 ### ![Getting Started](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=25&duration=1&pause=1000&color=FFFFFF&vCenter=true&width=435&height=25&lines=Getting%20Started)
 
-If you're not interested in self hosting, please ignore the rest of this section and [invite the bot](https://lqvers.netlify.app/invites/repl-always-on)
+If you're not interested in self hosting, please ignore the rest of this section and [invite the bot](https://lqvers.netlify.app/invites/repl-always-on). Check out the non-discord bot version [here](https://github.com/ffrrancis/pingr)!
 
 #### Self hosting on [replit](https://replit.com)
 
